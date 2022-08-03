@@ -1,0 +1,739 @@
+2022-06-18 11:20:44 | [INFO]    | Discordia 2.7.0
+2022-06-18 11:20:44 | [INFO]    | Connecting to Discord...
+2022-06-18 11:20:45 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 11:20:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 11:20:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 11:20:46 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 11:20:46 | [INFO]    | Shard 0 : Received READY
+2022-06-18 11:25:02 | [INFO]    | Shard 0 : Disconnected
+2022-06-18 11:25:06 | [INFO]    | Shard 0 : Reconnecting after 938 ms...
+2022-06-18 11:25:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 11:25:07 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 11:25:08 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-06-18 11:25:13 | [INFO]    | Shard 0 : Received READY
+2022-06-18 11:55:04 | [INFO]    | Discordia 2.7.0
+2022-06-18 11:55:04 | [INFO]    | Connecting to Discord...
+2022-06-18 11:55:04 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 11:55:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 11:55:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 11:55:05 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 11:55:05 | [INFO]    | Shard 0 : Received READY
+2022-06-18 11:55:43 | [INFO]    | Discordia 2.7.0
+2022-06-18 11:55:43 | [INFO]    | Connecting to Discord...
+2022-06-18 11:55:43 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 11:55:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 11:55:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 11:55:43 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 11:55:43 | [INFO]    | Shard 0 : Received READY
+2022-06-18 12:04:43 | [INFO]    | Discordia 2.7.0
+2022-06-18 12:04:43 | [INFO]    | Connecting to Discord...
+2022-06-18 12:04:44 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 12:04:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 12:04:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 12:04:44 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 12:04:44 | [INFO]    | Shard 0 : Received READY
+2022-06-18 12:06:30 | [INFO]    | Discordia 2.7.0
+2022-06-18 12:06:30 | [INFO]    | Connecting to Discord...
+2022-06-18 12:06:30 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 12:06:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 12:06:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 12:06:31 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 12:06:31 | [INFO]    | Shard 0 : Received READY
+2022-06-18 12:10:55 | [INFO]    | Discordia 2.7.0
+2022-06-18 12:10:55 | [INFO]    | Connecting to Discord...
+2022-06-18 12:10:55 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 12:10:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 12:10:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 12:10:55 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 12:10:55 | [INFO]    | Shard 0 : Received READY
+2022-06-18 12:11:47 | [INFO]    | Discordia 2.7.0
+2022-06-18 12:11:47 | [INFO]    | Connecting to Discord...
+2022-06-18 12:11:47 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 12:11:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 12:11:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 12:11:48 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 12:11:48 | [INFO]    | Shard 0 : Received READY
+2022-06-18 12:18:12 | [INFO]    | Discordia 2.7.0
+2022-06-18 12:18:12 | [INFO]    | Connecting to Discord...
+2022-06-18 12:18:12 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 12:18:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 12:18:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 12:18:12 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 12:18:12 | [INFO]    | Shard 0 : Received READY
+2022-06-18 12:21:28 | [INFO]    | Discordia 2.7.0
+2022-06-18 12:21:28 | [INFO]    | Connecting to Discord...
+2022-06-18 12:21:29 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-18 12:21:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-18 12:21:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-18 12:21:29 | [INFO]    | Shard 0 : Received HELLO
+2022-06-18 12:21:30 | [INFO]    | Shard 0 : Received READY
+2022-06-19 15:49:39 | [INFO]    | Discordia 2.7.0
+2022-06-19 15:49:39 | [INFO]    | Connecting to Discord...
+2022-06-19 15:49:39 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 15:49:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 15:49:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 15:49:40 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 15:49:40 | [INFO]    | Shard 0 : Received READY
+2022-06-19 15:53:34 | [INFO]    | Discordia 2.7.0
+2022-06-19 15:53:34 | [INFO]    | Connecting to Discord...
+2022-06-19 15:53:34 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 15:53:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 15:53:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 15:53:35 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 15:53:35 | [INFO]    | Shard 0 : Received READY
+2022-06-19 15:54:48 | [INFO]    | Discordia 2.7.0
+2022-06-19 15:54:48 | [INFO]    | Connecting to Discord...
+2022-06-19 15:54:48 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 15:54:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 15:54:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 15:54:48 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 15:54:49 | [INFO]    | Shard 0 : Received READY
+2022-06-19 15:55:49 | [INFO]    | Discordia 2.7.0
+2022-06-19 15:55:49 | [INFO]    | Connecting to Discord...
+2022-06-19 15:55:49 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 15:55:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 15:55:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 15:55:49 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 15:55:50 | [INFO]    | Shard 0 : Received READY
+2022-06-19 16:00:55 | [INFO]    | Discordia 2.7.0
+2022-06-19 16:00:55 | [INFO]    | Connecting to Discord...
+2022-06-19 16:00:55 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 16:00:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 16:00:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 16:00:55 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 16:00:56 | [INFO]    | Shard 0 : Received READY
+2022-06-19 16:05:01 | [INFO]    | Discordia 2.7.0
+2022-06-19 16:05:01 | [INFO]    | Connecting to Discord...
+2022-06-19 16:05:01 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 16:05:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 16:05:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 16:05:02 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 16:05:02 | [INFO]    | Shard 0 : Received READY
+2022-06-19 16:06:25 | [INFO]    | Discordia 2.7.0
+2022-06-19 16:06:25 | [INFO]    | Connecting to Discord...
+2022-06-19 16:06:26 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-19 16:06:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-19 16:06:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-19 16:06:26 | [INFO]    | Shard 0 : Received HELLO
+2022-06-19 16:06:26 | [INFO]    | Shard 0 : Received READY
+2022-06-20 19:49:02 | [INFO]    | Discordia 2.7.0
+2022-06-20 19:49:02 | [INFO]    | Connecting to Discord...
+2022-06-20 19:49:02 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-20 19:49:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-20 19:49:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-20 19:49:03 | [INFO]    | Shard 0 : Received HELLO
+2022-06-20 19:49:03 | [INFO]    | Shard 0 : Received READY
+2022-06-20 19:54:46 | [INFO]    | Discordia 2.7.0
+2022-06-20 19:54:46 | [INFO]    | Connecting to Discord...
+2022-06-20 19:54:46 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-20 19:54:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-20 19:54:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-20 19:54:46 | [INFO]    | Shard 0 : Received HELLO
+2022-06-20 19:54:47 | [INFO]    | Shard 0 : Received READY
+2022-06-20 19:56:13 | [INFO]    | Discordia 2.7.0
+2022-06-20 19:56:13 | [INFO]    | Connecting to Discord...
+2022-06-20 19:56:13 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-20 19:56:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-20 19:56:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-20 19:56:13 | [INFO]    | Shard 0 : Received HELLO
+2022-06-20 19:56:14 | [INFO]    | Shard 0 : Received READY
+2022-06-21 12:08:53 | [INFO]    | Discordia 2.7.0
+2022-06-21 12:08:53 | [INFO]    | Connecting to Discord...
+2022-06-21 12:08:54 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-21 12:08:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 12:08:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 12:08:55 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 12:08:55 | [INFO]    | Shard 0 : Received READY
+2022-06-21 12:09:57 | [INFO]    | Discordia 2.7.0
+2022-06-21 12:09:57 | [INFO]    | Connecting to Discord...
+2022-06-21 12:09:57 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-21 12:09:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 12:09:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 12:09:57 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 12:09:58 | [INFO]    | Shard 0 : Received READY
+2022-06-21 12:11:06 | [INFO]    | Discordia 2.7.0
+2022-06-21 12:11:06 | [INFO]    | Connecting to Discord...
+2022-06-21 12:11:06 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-21 12:11:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 12:11:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 12:11:07 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 12:11:07 | [INFO]    | Shard 0 : Received READY
+2022-06-21 13:49:59 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-06-21 13:50:00 | [INFO]    | Shard 0 : Disconnected
+2022-06-21 13:50:00 | [INFO]    | Shard 0 : Reconnecting...
+2022-06-21 13:50:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 13:50:00 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 13:50:00 | [INFO]    | Shard 0 : Received READY
+2022-06-21 15:35:54 | [INFO]    | Shard 0 : Disconnected
+2022-06-21 15:35:54 | [INFO]    | Shard 0 : Reconnecting after 1090 ms...
+2022-06-21 15:36:16 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2022-06-21 15:36:16 | [INFO]    | Shard 0 : Reconnecting after 2008 ms...
+2022-06-21 15:36:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 15:36:18 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 15:36:18 | [INFO]    | Shard 0 : Received RESUMED
+2022-06-21 15:41:07 | [INFO]    | Shard 0 : Disconnected
+2022-06-21 15:41:07 | [INFO]    | Shard 0 : Reconnecting after 913 ms...
+2022-06-21 15:41:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 15:41:08 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 15:41:08 | [INFO]    | Shard 0 : Received RESUMED
+2022-06-21 15:50:46 | [INFO]    | Shard 0 : Disconnected
+2022-06-21 15:50:46 | [INFO]    | Shard 0 : Reconnecting after 1093 ms...
+2022-06-21 15:50:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 15:50:47 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 15:50:48 | [INFO]    | Shard 0 : Received RESUMED
+2022-06-21 17:03:37 | [INFO]    | Discordia 2.7.0
+2022-06-21 17:03:37 | [INFO]    | Connecting to Discord...
+2022-06-21 17:03:38 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-21 17:03:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 17:03:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 17:03:38 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 17:03:38 | [INFO]    | Shard 0 : Received READY
+2022-06-21 17:04:20 | [INFO]    | Discordia 2.7.0
+2022-06-21 17:04:20 | [INFO]    | Connecting to Discord...
+2022-06-21 17:04:20 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-21 17:04:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 17:04:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 17:04:21 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 17:04:21 | [INFO]    | Shard 0 : Received READY
+2022-06-21 17:10:48 | [INFO]    | Discordia 2.7.0
+2022-06-21 17:10:48 | [INFO]    | Connecting to Discord...
+2022-06-21 17:10:49 | [INFO]    | Authenticated as LorinBot#5581
+2022-06-21 17:10:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 17:10:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 17:10:49 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 17:10:49 | [INFO]    | Shard 0 : Received READY
+2022-06-21 17:34:33 | [INFO]    | Discordia 2.7.0
+2022-06-21 17:34:33 | [INFO]    | Connecting to Discord...
+2022-06-21 17:34:33 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-21 17:34:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-21 17:34:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 17:34:33 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 17:34:33 | [INFO]    | Shard 0 : Received READY
+2022-06-21 17:34:43 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-21 17:34:43 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-21 17:34:44 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-21 17:34:44 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-21 17:34:45 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-21 17:35:04 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-21 18:17:41 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-06-21 18:17:41 | [INFO]    | Shard 0 : Disconnected
+2022-06-21 18:17:41 | [INFO]    | Shard 0 : Reconnecting...
+2022-06-21 18:17:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-21 18:17:42 | [INFO]    | Shard 0 : Received HELLO
+2022-06-21 18:17:42 | [INFO]    | Shard 0 : Received READY
+2022-06-21 18:30:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 14:30:34 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:30:34 | [INFO]    | Connecting to Discord...
+2022-06-22 14:30:34 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:30:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:30:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:30:37 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:30:37 | [INFO]    | Shard 0 : Received READY
+2022-06-22 14:36:57 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:36:57 | [INFO]    | Connecting to Discord...
+2022-06-22 14:36:57 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:36:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:36:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:36:57 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:36:58 | [INFO]    | Shard 0 : Received READY
+2022-06-22 14:45:20 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:45:20 | [INFO]    | Connecting to Discord...
+2022-06-22 14:45:20 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:45:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:45:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:45:20 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:45:21 | [INFO]    | Shard 0 : Received READY
+2022-06-22 14:54:21 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:54:21 | [INFO]    | Connecting to Discord...
+2022-06-22 14:54:21 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:54:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:54:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:54:22 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:54:22 | [INFO]    | Shard 0 : Received READY
+2022-06-22 14:55:19 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:55:19 | [INFO]    | Connecting to Discord...
+2022-06-22 14:55:19 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:55:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:55:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:55:19 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:55:20 | [INFO]    | Shard 0 : Received READY
+2022-06-22 14:57:13 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:57:13 | [INFO]    | Connecting to Discord...
+2022-06-22 14:57:14 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:57:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:57:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:57:14 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:57:14 | [INFO]    | Shard 0 : Received READY
+2022-06-22 14:57:47 | [INFO]    | Discordia 2.7.0
+2022-06-22 14:57:47 | [INFO]    | Connecting to Discord...
+2022-06-22 14:57:47 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 14:57:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 14:57:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 14:57:47 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 14:57:48 | [INFO]    | Shard 0 : Received READY
+2022-06-22 15:12:35 | [INFO]    | Discordia 2.7.0
+2022-06-22 15:12:35 | [INFO]    | Connecting to Discord...
+2022-06-22 15:12:36 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 15:12:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 15:12:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 15:12:36 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 15:12:36 | [INFO]    | Shard 0 : Received READY
+2022-06-22 15:29:11 | [INFO]    | Discordia 2.7.0
+2022-06-22 15:29:11 | [INFO]    | Connecting to Discord...
+2022-06-22 15:29:12 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 15:29:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 15:29:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 15:29:12 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 15:29:12 | [INFO]    | Shard 0 : Received READY
+2022-06-22 15:54:00 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2022-06-22 15:57:19 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:19 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:19 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:20 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:20 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:20 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:20 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:21 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:21 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:41 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:41 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:42 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:42 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:42 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:42 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:42 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:43 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:57:43 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:57:43 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:58:02 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:58:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:58:03 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:58:03 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:58:04 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:58:04 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:58:04 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:58:04 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 15:58:05 | [WARNING] | Shard 0 : Unhandled gateway event: APPLICATION_COMMAND_PERMISSIONS_UPDATE
+2022-06-22 15:58:05 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_APPLICATION_COMMAND_INDEX_UPDATE
+2022-06-22 16:41:21 | [INFO]    | Discordia 2.7.0
+2022-06-22 16:41:21 | [INFO]    | Connecting to Discord...
+2022-06-22 16:41:22 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 16:41:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 16:41:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 16:41:23 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 16:41:23 | [INFO]    | Shard 0 : Received READY
+2022-06-22 17:09:24 | [INFO]    | Shard 0 : Disconnected
+2022-06-22 17:09:24 | [INFO]    | Shard 0 : Reconnecting after 945 ms...
+2022-06-22 17:09:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 17:09:29 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 17:09:29 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-06-22 17:09:34 | [INFO]    | Shard 0 : Received READY
+2022-06-22 19:13:44 | [INFO]    | Discordia 2.7.0
+2022-06-22 19:13:44 | [INFO]    | Connecting to Discord...
+2022-06-22 19:13:45 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 19:13:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 19:13:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 19:13:45 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 19:13:46 | [INFO]    | Shard 0 : Received READY
+2022-06-22 19:22:34 | [INFO]    | Discordia 2.7.0
+2022-06-22 19:22:34 | [INFO]    | Connecting to Discord...
+2022-06-22 19:22:34 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 19:22:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 19:22:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 19:22:35 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 19:22:35 | [INFO]    | Shard 0 : Received READY
+2022-06-22 19:23:36 | [INFO]    | Discordia 2.7.0
+2022-06-22 19:23:36 | [INFO]    | Connecting to Discord...
+2022-06-22 19:23:36 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-22 19:23:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-22 19:23:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-22 19:23:36 | [INFO]    | Shard 0 : Received HELLO
+2022-06-22 19:23:37 | [INFO]    | Shard 0 : Received READY
+2022-06-25 12:37:56 | [INFO]    | Discordia 2.7.0
+2022-06-25 12:37:56 | [INFO]    | Connecting to Discord...
+2022-06-25 12:37:57 | [ERROR]   | 401 - Unauthorized : GET https://discordapp.com/api/v7/users/@me
+2022-06-25 12:37:57 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-06-25 12:39:26 | [INFO]    | Discordia 2.7.0
+2022-06-25 12:39:26 | [INFO]    | Connecting to Discord...
+2022-06-25 12:39:26 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 12:39:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 12:39:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 12:39:27 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 12:39:27 | [INFO]    | Shard 0 : Received READY
+2022-06-25 12:41:55 | [INFO]    | Discordia 2.7.0
+2022-06-25 12:41:55 | [INFO]    | Connecting to Discord...
+2022-06-25 12:41:56 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 12:41:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 12:41:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 12:41:58 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 12:41:58 | [INFO]    | Shard 0 : Received READY
+2022-06-25 13:53:18 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 13:53:19 | [INFO]    | Shard 0 : Reconnecting after 1065 ms...
+2022-06-25 13:53:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 13:53:19 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 13:53:19 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-06-25 13:53:25 | [INFO]    | Shard 0 : Received READY
+2022-06-25 15:58:28 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-06-25 15:58:28 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 15:58:28 | [INFO]    | Shard 0 : Reconnecting...
+2022-06-25 15:58:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 15:58:29 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 15:58:29 | [INFO]    | Shard 0 : Received READY
+2022-06-25 16:26:26 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-06-25 16:36:11 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 16:36:11 | [INFO]    | Shard 0 : Reconnecting...
+2022-06-25 16:36:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 16:36:12 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 16:36:12 | [INFO]    | Shard 0 : Received READY
+2022-06-25 17:12:02 | [INFO]    | Discordia 2.7.0
+2022-06-25 17:12:02 | [INFO]    | Connecting to Discord...
+2022-06-25 17:12:02 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 17:12:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 17:12:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 17:12:04 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 17:12:04 | [INFO]    | Shard 0 : Received READY
+2022-06-25 17:17:20 | [INFO]    | Discordia 2.7.0
+2022-06-25 17:17:20 | [INFO]    | Connecting to Discord...
+2022-06-25 17:17:20 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 17:17:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 17:17:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 17:17:20 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 17:17:21 | [INFO]    | Shard 0 : Received READY
+2022-06-25 17:18:22 | [INFO]    | Discordia 2.7.0
+2022-06-25 17:18:22 | [INFO]    | Connecting to Discord...
+2022-06-25 17:18:23 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 17:18:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 17:18:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 17:18:23 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 17:18:23 | [INFO]    | Shard 0 : Received READY
+2022-06-25 17:18:49 | [INFO]    | Discordia 2.7.0
+2022-06-25 17:18:49 | [INFO]    | Connecting to Discord...
+2022-06-25 17:18:49 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 17:18:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 17:18:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 17:18:49 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 17:18:50 | [INFO]    | Shard 0 : Received READY
+2022-06-25 17:19:26 | [INFO]    | Discordia 2.7.0
+2022-06-25 17:19:26 | [INFO]    | Connecting to Discord...
+2022-06-25 17:19:26 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 17:19:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 17:19:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 17:19:26 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 17:19:27 | [INFO]    | Shard 0 : Received READY
+2022-06-25 17:19:52 | [INFO]    | Discordia 2.7.0
+2022-06-25 17:19:52 | [INFO]    | Connecting to Discord...
+2022-06-25 17:19:52 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-25 17:19:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-25 17:19:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 17:19:53 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 17:19:53 | [INFO]    | Shard 0 : Received READY
+2022-06-25 18:46:11 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 18:46:11 | [INFO]    | Shard 0 : Reconnecting after 919 ms...
+2022-06-25 18:46:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 18:46:12 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 18:46:12 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-06-25 18:46:16 | [INFO]    | Shard 0 : Received READY
+2022-06-25 18:58:30 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 18:58:30 | [INFO]    | Shard 0 : Reconnecting after 946 ms...
+2022-06-25 18:58:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 18:58:31 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 18:58:32 | [INFO]    | Shard 0 : Received RESUMED
+2022-06-25 18:58:47 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 18:58:47 | [INFO]    | Shard 0 : Reconnecting after 1900 ms...
+2022-06-25 18:58:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 18:58:49 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 18:58:49 | [INFO]    | Shard 0 : Received RESUMED
+2022-06-25 21:13:39 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-06-25 21:13:39 | [INFO]    | Shard 0 : Disconnected
+2022-06-25 21:13:39 | [INFO]    | Shard 0 : Reconnecting...
+2022-06-25 21:13:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-25 21:13:40 | [INFO]    | Shard 0 : Received HELLO
+2022-06-25 21:13:40 | [INFO]    | Shard 0 : Received READY
+2022-06-26 09:58:58 | [INFO]    | Discordia 2.7.0
+2022-06-26 09:58:58 | [INFO]    | Connecting to Discord...
+2022-06-26 09:58:59 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-26 09:58:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-26 09:59:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-26 09:59:01 | [INFO]    | Shard 0 : Received HELLO
+2022-06-26 09:59:01 | [INFO]    | Shard 0 : Received READY
+2022-06-26 12:51:26 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-06-26 12:51:26 | [INFO]    | Shard 0 : Disconnected
+2022-06-26 12:51:26 | [INFO]    | Shard 0 : Reconnecting...
+2022-06-26 12:51:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-26 12:51:27 | [INFO]    | Shard 0 : Received HELLO
+2022-06-26 12:51:27 | [INFO]    | Shard 0 : Received READY
+2022-06-28 09:41:56 | [INFO]    | Discordia 2.7.0
+2022-06-28 09:41:56 | [INFO]    | Connecting to Discord...
+2022-06-28 09:41:59 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-28 09:42:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-28 09:42:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-28 09:42:00 | [INFO]    | Shard 0 : Received HELLO
+2022-06-28 09:42:00 | [INFO]    | Shard 0 : Received READY
+2022-06-28 11:40:52 | [INFO]    | Discordia 2.7.0
+2022-06-28 11:40:52 | [INFO]    | Connecting to Discord...
+2022-06-28 11:40:53 | [INFO]    | Authenticated as JakubBot#5581
+2022-06-28 11:40:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-06-28 11:40:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-06-28 11:40:53 | [INFO]    | Shard 0 : Received HELLO
+2022-06-28 11:40:54 | [INFO]    | Shard 0 : Received READY
+2022-07-02 16:09:22 | [INFO]    | Discordia 2.7.0
+2022-07-02 16:09:22 | [INFO]    | Connecting to Discord...
+2022-07-02 16:09:23 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-02 16:09:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-02 16:09:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-02 16:09:23 | [INFO]    | Shard 0 : Received HELLO
+2022-07-02 16:09:24 | [INFO]    | Shard 0 : Received READY
+2022-07-02 16:58:51 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-07-02 16:58:51 | [INFO]    | Shard 0 : Disconnected
+2022-07-02 16:58:51 | [INFO]    | Shard 0 : Reconnecting...
+2022-07-02 16:58:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-02 16:58:51 | [INFO]    | Shard 0 : Received HELLO
+2022-07-02 16:58:51 | [INFO]    | Shard 0 : Received READY
+2022-07-04 20:36:25 | [INFO]    | Discordia 2.7.0
+2022-07-04 20:36:25 | [INFO]    | Connecting to Discord...
+2022-07-04 20:36:25 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-04 20:36:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-04 20:36:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-04 20:36:26 | [INFO]    | Shard 0 : Received HELLO
+2022-07-04 20:36:26 | [INFO]    | Shard 0 : Received READY
+2022-07-05 15:02:17 | [INFO]    | Discordia 2.7.0
+2022-07-05 15:02:17 | [INFO]    | Connecting to Discord...
+2022-07-05 15:02:18 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-05 15:02:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-05 15:02:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-05 15:02:19 | [INFO]    | Shard 0 : Received HELLO
+2022-07-05 15:02:19 | [INFO]    | Shard 0 : Received READY
+2022-07-05 15:06:22 | [INFO]    | Discordia 2.7.0
+2022-07-05 15:06:22 | [INFO]    | Connecting to Discord...
+2022-07-05 15:06:22 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-05 15:06:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-05 15:06:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-05 15:06:22 | [INFO]    | Shard 0 : Received HELLO
+2022-07-05 15:06:23 | [INFO]    | Shard 0 : Received READY
+2022-07-08 15:41:15 | [INFO]    | Discordia 2.7.0
+2022-07-08 15:41:15 | [INFO]    | Connecting to Discord...
+2022-07-08 15:41:16 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-08 15:41:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-08 15:41:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-08 15:41:16 | [INFO]    | Shard 0 : Received HELLO
+2022-07-08 15:41:17 | [INFO]    | Shard 0 : Received READY
+2022-07-10 19:57:53 | [INFO]    | Discordia 2.7.0
+2022-07-10 19:57:53 | [INFO]    | Connecting to Discord...
+2022-07-10 19:57:53 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-10 19:57:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-10 19:57:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-10 19:57:54 | [INFO]    | Shard 0 : Received HELLO
+2022-07-10 19:57:54 | [INFO]    | Shard 0 : Received READY
+2022-07-12 15:59:37 | [INFO]    | Discordia 2.7.0
+2022-07-12 15:59:37 | [INFO]    | Connecting to Discord...
+2022-07-12 15:59:38 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 15:59:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 15:59:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 15:59:38 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 15:59:38 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:05:17 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:05:17 | [INFO]    | Connecting to Discord...
+2022-07-12 16:05:17 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:05:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:05:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:05:17 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:05:18 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:06:43 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:06:43 | [INFO]    | Connecting to Discord...
+2022-07-12 16:06:43 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:06:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:06:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:06:43 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:06:44 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:07:59 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:07:59 | [INFO]    | Connecting to Discord...
+2022-07-12 16:08:00 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:08:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:08:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:08:00 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:08:00 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:08:19 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:08:19 | [INFO]    | Connecting to Discord...
+2022-07-12 16:08:19 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:08:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:08:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:08:19 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:08:19 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:10:43 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:10:43 | [INFO]    | Connecting to Discord...
+2022-07-12 16:10:43 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:10:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:10:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:10:44 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:10:44 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:11:03 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:11:03 | [INFO]    | Connecting to Discord...
+2022-07-12 16:11:04 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:11:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:11:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:11:04 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:11:04 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:14:15 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:14:17 | [INFO]    | Connecting to Discord...
+2022-07-12 16:14:17 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:14:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:14:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:14:17 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:14:18 | [INFO]    | Shard 0 : Received READY
+2022-07-12 16:15:36 | [INFO]    | Discordia 2.7.0
+2022-07-12 16:15:36 | [INFO]    | Connecting to Discord...
+2022-07-12 16:15:36 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-12 16:15:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-12 16:15:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-12 16:15:37 | [INFO]    | Shard 0 : Received HELLO
+2022-07-12 16:15:37 | [INFO]    | Shard 0 : Received READY
+2022-07-26 11:22:30 | [INFO]    | Discordia 2.7.0
+2022-07-26 11:22:30 | [INFO]    | Connecting to Discord...
+2022-07-26 11:22:31 | [INFO]    | Authenticated as JakubBot#5581
+2022-07-26 11:22:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-26 11:22:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 11:22:32 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 11:22:32 | [INFO]    | Shard 0 : Received READY
+2022-07-26 12:09:30 | [INFO]    | Shard 0 : Disconnected
+2022-07-26 12:09:30 | [INFO]    | Shard 0 : Reconnecting after 1026 ms...
+2022-07-26 12:09:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 12:09:31 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 12:09:31 | [INFO]    | Shard 0 : Received RESUMED
+2022-07-26 13:48:47 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2022-07-26 14:21:10 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-07-26 14:21:10 | [INFO]    | Shard 0 : Disconnected
+2022-07-26 14:21:10 | [INFO]    | Shard 0 : Reconnecting...
+2022-07-26 14:21:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 14:21:10 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 14:21:11 | [INFO]    | Shard 0 : Received READY
+2022-07-26 15:27:53 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-07-26 15:27:53 | [INFO]    | Shard 0 : Disconnected
+2022-07-26 15:27:53 | [INFO]    | Shard 0 : Reconnecting...
+2022-07-26 15:27:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 15:27:54 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 15:27:54 | [INFO]    | Shard 0 : Received READY
+2022-07-26 17:02:41 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-07-26 17:02:41 | [INFO]    | Shard 0 : Disconnected
+2022-07-26 17:02:41 | [INFO]    | Shard 0 : Reconnecting...
+2022-07-26 17:02:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 17:02:42 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 17:02:42 | [INFO]    | Shard 0 : Received READY
+2022-07-26 18:22:31 | [INFO]    | Shard 0 : Disconnected
+2022-07-26 18:22:31 | [INFO]    | Shard 0 : Reconnecting after 1084 ms...
+2022-07-26 18:22:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 18:22:37 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 18:22:38 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-07-26 18:22:42 | [INFO]    | Shard 0 : Received READY
+2022-07-26 18:29:47 | [INFO]    | Shard 0 : Disconnected
+2022-07-26 18:29:47 | [INFO]    | Shard 0 : Reconnecting after 1036 ms...
+2022-07-26 18:29:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-26 18:29:48 | [INFO]    | Shard 0 : Received HELLO
+2022-07-26 18:29:48 | [INFO]    | Shard 0 : Received RESUMED
+2022-08-02 15:33:11 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:33:11 | [INFO]    | Connecting to Discord...
+2022-08-02 15:33:11 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:33:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:33:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:33:12 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:33:12 | [INFO]    | Shard 0 : Received READY
+2022-08-02 15:35:08 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:35:08 | [INFO]    | Connecting to Discord...
+2022-08-02 15:35:09 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:35:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:35:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:35:09 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:35:09 | [INFO]    | Shard 0 : Received READY
+2022-08-02 15:35:52 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:35:52 | [INFO]    | Connecting to Discord...
+2022-08-02 15:35:52 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:35:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:35:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:35:52 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:35:53 | [INFO]    | Shard 0 : Received READY
+2022-08-02 15:36:22 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:36:22 | [INFO]    | Connecting to Discord...
+2022-08-02 15:36:22 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:36:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:36:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:36:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:36:23 | [INFO]    | Shard 0 : Received READY
+2022-08-02 15:48:26 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:48:26 | [INFO]    | Connecting to Discord...
+2022-08-02 15:48:27 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:48:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:48:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:48:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:48:27 | [INFO]    | Shard 0 : Received READY
+2022-08-02 15:49:25 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:49:25 | [INFO]    | Connecting to Discord...
+2022-08-02 15:49:26 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:49:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:49:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:49:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:49:26 | [INFO]    | Shard 0 : Received READY
+2022-08-02 15:50:34 | [INFO]    | Discordia 2.7.0
+2022-08-02 15:50:34 | [INFO]    | Connecting to Discord...
+2022-08-02 15:50:34 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 15:50:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 15:50:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 15:50:34 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 15:50:35 | [INFO]    | Shard 0 : Received READY
+2022-08-02 16:39:21 | [INFO]    | Discordia 2.7.0
+2022-08-02 16:39:21 | [INFO]    | Connecting to Discord...
+2022-08-02 16:39:22 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 16:39:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 16:39:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 16:39:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 16:39:23 | [INFO]    | Shard 0 : Received READY
+2022-08-02 16:40:46 | [INFO]    | Discordia 2.7.0
+2022-08-02 16:40:46 | [INFO]    | Connecting to Discord...
+2022-08-02 16:40:47 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 16:40:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 16:40:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 16:40:47 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 16:40:47 | [INFO]    | Shard 0 : Received READY
+2022-08-02 16:43:13 | [INFO]    | Discordia 2.7.0
+2022-08-02 16:43:13 | [INFO]    | Connecting to Discord...
+2022-08-02 16:43:13 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 16:43:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 16:43:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 16:43:14 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 16:43:14 | [INFO]    | Shard 0 : Received READY
+2022-08-02 16:43:40 | [INFO]    | Discordia 2.7.0
+2022-08-02 16:43:40 | [INFO]    | Connecting to Discord...
+2022-08-02 16:43:40 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 16:43:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 16:43:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 16:43:41 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 16:43:41 | [INFO]    | Shard 0 : Received READY
+2022-08-02 16:43:57 | [INFO]    | Discordia 2.7.0
+2022-08-02 16:43:57 | [INFO]    | Connecting to Discord...
+2022-08-02 16:43:57 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 16:43:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 16:43:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 16:43:58 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 16:43:58 | [INFO]    | Shard 0 : Received READY
+2022-08-02 17:06:12 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2022-08-02 17:47:59 | [INFO]    | Discordia 2.7.0
+2022-08-02 17:47:59 | [INFO]    | Connecting to Discord...
+2022-08-02 17:48:00 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 17:48:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 17:48:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 17:48:00 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 17:48:01 | [INFO]    | Shard 0 : Received READY
+2022-08-02 18:20:03 | [INFO]    | Discordia 2.7.0
+2022-08-02 18:20:03 | [INFO]    | Connecting to Discord...
+2022-08-02 18:20:03 | [INFO]    | Authenticated as Bot ma esse#5487
+2022-08-02 18:20:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-02 18:20:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 18:20:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 18:20:04 | [INFO]    | Shard 0 : Received READY
+2022-08-02 18:24:49 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_UPDATE
+2022-08-02 18:55:02 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2022-08-02 18:55:02 | [INFO]    | Shard 0 : Disconnected
+2022-08-02 18:55:02 | [INFO]    | Shard 0 : Reconnecting...
+2022-08-02 18:55:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-02 18:55:02 | [INFO]    | Shard 0 : Received HELLO
+2022-08-02 18:55:02 | [INFO]    | Shard 0 : Received READY
+2022-08-02 19:17:40 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_UPDATE
